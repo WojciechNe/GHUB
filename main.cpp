@@ -6,6 +6,6 @@ int Policz(int a, int b) {
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "W pierwszym branchu" << std::endl;
+    std::cout << "W pierwszym branchu" << Policz(2,3)<< std::endl;
     return 0;
 }
